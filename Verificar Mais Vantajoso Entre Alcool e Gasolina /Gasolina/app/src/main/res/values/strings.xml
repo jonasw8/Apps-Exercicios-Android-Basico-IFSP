@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Gasolina</string>
-    <string name="preco_alcool">Preço do Alcool</string>
-    <string name="alcool_hint">Insira o valor do alcool</string>
-    <string name="preco_gasolina">Preço da Gasolina</string>
-    <string name="gasolina_hint">Insira o preço da gasolina</string>
-    <string name="Calcular">Calcular</string>
-</resources>
